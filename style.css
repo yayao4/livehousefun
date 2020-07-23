@@ -152,9 +152,8 @@ section {
 	}
 
 	.eventnav {
-		position: absolute;
-		top: 185px;
-		left: 140px;
+		width: 900px;
+		margin: 0 auto;
 	}
 
 /* studio.html */
@@ -211,6 +210,10 @@ figure {
 
 .submit {
 	text-align: center;
+}
+
+.form {
+	width: 80%;
 }
 
  /* footer */
